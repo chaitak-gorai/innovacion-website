@@ -1,0 +1,125 @@
+.key_data {
+  width: 400px;
+  height: 200px;
+}
+.comp_3 {
+  /* display: flex; */
+  /* justify-content: space-evenly; */
+  /* padding: 20px; */
+}
+#detail {
+  padding: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  box-shadow: 0.8px 0.8px 20px grey;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#detail:hover {
+  transform: scale(1.08);
+  transition: 0.8s;
+}
+
+.comp_4 {
+  padding: 10px;
+  margin: 30px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+.sc_card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+#s_card {
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0.8px 0.8px 8px grey;
+}
+#s_card:hover {
+  transform: scale(1.08);
+  transition: 0.6s;
+}
+
+.Event_details {
+  display: flex;
+  justify-content: space-evenly;
+}
+.Event_details > h1 {
+  padding: 20px;
+  box-shadow: 0.2px 0.2px 5px grey;
+  border-radius: 10px;
+}
+#heading {
+  text-align: center;
+  font-size: 40px;
+}
+.img_events > img {
+  object-fit: contain;
+  height: 150px;
+  padding: 20px;
+}
+#cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  box-shadow: 0.5px 0.5px 8px grey;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  align-items: center;
+  min-height: 40vh;
+}
+.content_events {
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+}
+.rules > a {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.rules > a:hover {
+  background-color: red;
+  color: black;
+}
+.event_cards {
+  display: flex;
+  justify-content: space-around;
+}
+.abt_event > p {
+  font-size: 15px;
+}
+
+#parallax {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: url(https://i.postimg.cc/sgD5q62g/4.png),
+    url(https://i.postimg.cc/wx2vZ6RD/3.png),
+    url(https://i.postimg.cc/vB6rX4Z7/2.png),
+    url(https://i.postimg.cc/s1CGX1Vm/1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: 50% 50%;
+}
+.ph {
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: 'Arial';
+  text-transform: uppercase;
+  opacity: 0.2;
+  font-size: 70px;
+}
