@@ -320,7 +320,7 @@ a:hover {
   background: #79dd09;
   color: black;
 }
-.green .postcard__title:hover {
+.green .postcard__title {
   color: #79dd09;
 }
 .green .postcard__bar {

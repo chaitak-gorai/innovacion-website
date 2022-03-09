@@ -27,7 +27,7 @@
 })();
 
 function showProjectsData() {
-  const itemsDiv = document.querySelector('#cards');
+  const itemsDiv = document.querySelector('#eve');
   let content = events.map((data) => {
     return `
     <article class="postcard dark green">
@@ -51,14 +51,10 @@ function showProjectsData() {
       <div class="postcard__preview-txt">
       ${data.writeup}
       </div>
+     
       <ul class="postcard__tagbox">
-        <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-        <li class="tag__item">
-          <i class="fas fa-clock mr-2"></i>55 mins.
-        </li>
-        <li class="tag__item play green">
-          <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-        </li>
+      <button class="btn btn-success" style="margin-right:5px">Rules</button>
+     
       </ul>
     </div>
   </article>`;
