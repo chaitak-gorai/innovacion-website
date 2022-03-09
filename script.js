@@ -27,7 +27,7 @@
 })();
 
 function showProjectsData() {
-  const itemsDiv = document.querySelector("#cards");
+  const itemsDiv = document.querySelector('#cards');
   let content = events.map((data) => {
     return `
           <div class='d-flex align-items-center justify-content-center'>
@@ -37,7 +37,7 @@ function showProjectsData() {
       <div class='event_cards  ' style={{ width: '80%' }}>
         <div id='cards' class='row'>
           <div class='img_events col-md-3'>
-            <img src=${data.image_url} alt='' />
+            <img src="./assets/events/${data.image_url}" alt='' />
           </div>
           <br />
           <div class='content_events col-md-9'>
@@ -59,9 +59,9 @@ function showProjectsData() {
           </div>
         </div>
       </div>
-    </div>`
+    </div>`;
   });
-  content = content.join(" ");
+  content = content.join(' ');
   itemsDiv.innerHTML = content;
 }
 showProjectsData();
