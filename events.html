@@ -38,12 +38,6 @@
     <link href="assets/css/style.css" rel="stylesheet" />
     <link href="./style.css" rel="stylesheet" />
 
-    <!-- =======================================================
-      * Template Name: Innovacion - v4.7.0
-      * Template URL: https://bootstrapmade.com/Innovacion-conference-event-bootstrap-template/
-      * Author: BootstrapMade.com
-      * License: https://bootstrapmade.com/license/
-      ======================================================== -->
   </head>
 
   <body>
@@ -112,27 +106,35 @@
       <br />
       <div class="event_cards" style="width: 88%">
         <div id="cards" class="row">
-          <div class="img_events col-md-3">
-            <img src="{data.image_url}" alt="" />
-          </div>
-          <br />
-          <div class="content_events col-md-9">
-            <div class="event_name">
-              <h1>{data.name}</h1>
+          <script>
+          
+            {
+          </script>
+            <div class="img_events col-md-3">
+              <img src="{data.image_url}" alt="" />
             </div>
             <br />
-            <div class="abt_event">
-              <p>{data.writeup}</p>
-            </div>
-            <br />
-            <div class="rules">
-              <a href="">Rules</a>
+            <div class="content_events col-md-9">
+              <div class="event_name">
+                <h1>{data.name}</h1>
+              </div>
               <br />
+              <div class="abt_event">
+                <p>{data.writeup}</p>
+              </div>
               <br />
-              <h4>Event Coordinator</h4>
+              <div class="rules">
+                <a href="">Rules</a>
+                <br />
+                <br />
+                <h4>Event Coordinator</h4>
+              </div>
+              <br />
             </div>
-            <br />
-          </div>
+          <script>
+            }
+          </script>
+          
         </div>
       </div>
     </div>
