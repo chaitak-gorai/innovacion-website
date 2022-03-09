@@ -30,36 +30,38 @@ function showProjectsData() {
   const itemsDiv = document.querySelector('#cards');
   let content = events.map((data) => {
     return `
-          <div class='d-flex align-items-center justify-content-center'>
-      <br />
-
-      <br />
-      <div class='event_cards  ' style={{ width: '80%' }}>
-        <div id='cards' class='row'>
-          <div class='img_events col-md-3'>
-            <img src="./assets/events/${data.image_url}" alt='' />
-          </div>
-          <br />
-          <div class='content_events col-md-9'>
-            <div class='event_name'>
-              <h1>${data.name}</h1>
-            </div>
-            <br />
-            <div class='abt_event'>
-              <p>${data.writeup}</p>
-            </div>
-            <br />
-            <div class='rules'>
-              <a href=''>Rules</a>
-              <br />
-              <br />
-              <h4>Event Coordinator</h4>
-            </div>
-            <br />
-          </div>
-        </div>
+    <article class="postcard dark green">
+    <a class="postcard__img_link" href="#">
+      <img
+        class="postcard__img"
+      src="./assets/events/${data.image_url}"
+        alt="Image Title"
+      />
+    </a>
+    <div class="postcard__text">
+      <h1 class="postcard__title green">
+        <a href="#">${data.name}</a>
+      </h1>
+      <div class="postcard__subtitle small">
+        <time datetime="2020-05-25 12:00:00">
+          <i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
+        </time>
       </div>
-    </div>`;
+      <div class="postcard__bar"></div>
+      <div class="postcard__preview-txt">
+      ${data.writeup}
+      </div>
+      <ul class="postcard__tagbox">
+        <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
+        <li class="tag__item">
+          <i class="fas fa-clock mr-2"></i>55 mins.
+        </li>
+        <li class="tag__item play green">
+          <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
+        </li>
+      </ul>
+    </div>
+  </article>`;
   });
   content = content.join(' ');
   itemsDiv.innerHTML = content;
