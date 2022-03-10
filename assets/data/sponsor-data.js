@@ -160,11 +160,6 @@ const sponsors = [
     imgsrc: 'princenton.png',
   },
   {
-    'id ': 33,
-    name: 'ps4-logo',
-    imgsrc: 'ps4-logo.png',
-  },
-  {
     'id ': 34,
     name: 'ps4',
     imgsrc: 'ps4.png',
@@ -178,11 +173,6 @@ const sponsors = [
     'id ': 36,
     name: 'red',
     imgsrc: 'red.jpg',
-  },
-  {
-    'id ': 37,
-    name: 'renderbit-logo-white',
-    imgsrc: 'renderbit-logo-white.png',
   },
   {
     'id ': 38,

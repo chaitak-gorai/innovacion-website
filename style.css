@@ -113,6 +113,21 @@
   background-position: center;
   background-position: 50% 50%;
 }
+@media only screen and (max-width: 600px) {
+  #parallax {
+    /* position: relative; */
+  width: auto;
+  max-height: 800;
+  /* height: 40vh; */
+  /* justify-content: center; */
+  background-image: url(assets/MParalax/MParalax.png);
+  background-repeat: no-repeat;
+  /* background-position: relative; */
+  /* /* object-fit: contain; 
+  width: fit-content;
+    margin-left: auto;
+    margin-right: auto;*/
+}
 .ph {
   position: absolute;
   top: 47%;
