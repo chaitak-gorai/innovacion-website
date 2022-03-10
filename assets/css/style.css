@@ -62,6 +62,54 @@ h6 {
   background: #fff url('../img/preloader.svg') no-repeat center center;
 }
 
+/* Countdown */
+.countdown {
+  margin-bottom: 80px;
+}
+.countdown div {
+  background-color: #012970;
+  text-align: center;
+  border: 2px solid #4154f1;
+  border-radius: 8px;
+  margin: 10px;
+  width: 80px;
+  padding: 15px 0;
+}
+.countdown div h3 {
+  /* background-color: #5861b8; */
+  color: white;
+  font-weight: 700;
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+.countdown div h4 {
+  /* background-color: #5861b8; */
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+@media (max-width: 575px) {
+  .countdown div {
+    width: 70px;
+    padding: 10px 0;
+    margin: 10px 8px;
+  }
+  .countdown div h3 {
+    /* background-color: #5861b8; */
+    color: white;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .countdown div h4 {
+    /* background-color: #5861b8; */
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
+
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
