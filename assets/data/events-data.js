@@ -17,7 +17,7 @@ const events = [
     image_url: '8.png',
     rule_url: 'rules.html',
     writeup:
-      'It is time to build a bot, less like a bot but more like an SUV. Be prepared for the dirt, the hills, the pots, the caves, the tarmac and obstacles you will better prefer to avoid. Here we invite zealots from all parts of the country to bustle their bots on the X-Race arena, at Innovacion 2019, the biggest techfest in Kolkata. The twitchy terrains are ready to test your speed and agility and to provide a groovy experience to the speed fanatic in you. We make your dream to off-road come true at the biggest techfest in Kolkata, Innovacion 2019! So pull out your tools from mothballs and get to work.',
+      'It is time to build a bot, less like a bot but more like an SUV. Be prepared for the dirt, the hills, the pots, the caves, the tarmac and obstacles you will better prefer to avoid. Here we invite zealots from all parts of the country to bustle their bots on the X-Race arena, at Innovacion 2022, the biggest techfest in Kolkata. The twitchy terrains are ready to test your speed and agility and to provide a groovy experience to the speed fanatic in you. We make your dream to off-road come true at the biggest techfest in Kolkata, Innovacion 2022! So pull out your tools from mothballs and get to work.',
     created_at: null,
     updated_at: null,
   },
@@ -28,7 +28,7 @@ const events = [
     image_url: '4.png',
     rule_url: 'rules.html',
     writeup:
-      "The tension was palpable in the audience as two robots played a soccer match. Move, supporters of one team shouted. He, the other robot is blocking us, alleged the others. Robofooties that's what the game was called. Turn on the heat as its time to witness the biggest Robofootball Competition in the town, at Innovacion 2019. The two-rounds event is an ultimate showcase of love of robotics and football where each team battles to be the best at the biggest techfest in Kolkata, Innovacion 2019.",
+      "The tension was palpable in the audience as two robots played a soccer match. Move, supporters of one team shouted. He, the other robot is blocking us, alleged the others. Robofooties that's what the game was called. Turn on the heat as its time to witness the biggest Robofootball Competition in the town, at Innovacion 2022. The two-rounds event is an ultimate showcase of love of robotics and football where each team battles to be the best at the biggest techfest in Kolkata, Innovacion 2022.",
     created_at: null,
     updated_at: null,
   },
@@ -39,7 +39,7 @@ const events = [
     image_url: '9.png',
     rule_url: 'rules.html',
     writeup:
-      'Feel the heat when you hit and code? Get your hands dirty with some codes at the biggest techfest in Kolkata, Innovacion 2019. Show us if you have it in you to make it to the top amongst other contenders in an online coding event at the biggest techfest in town. Compete with the best of the best and prove your mettle at the biggest techfest in Kolkata, Innovacion 2019.',
+      'Feel the heat when you hit and code? Get your hands dirty with some codes at the biggest techfest in Kolkata, Innovacion 2022. Show us if you have it in you to make it to the top amongst other contenders in an online coding event at the biggest techfest in town. Compete with the best of the best and prove your mettle at the biggest techfest in Kolkata, Innovacion 2022.',
     created_at: null,
     updated_at: null,
   },
@@ -50,7 +50,7 @@ const events = [
     image_url: '10.png',
     rule_url: 'rules.html',
     writeup:
-      'There is only one thing stronger than all the armies of the world: and that is an idea whose time has come. - Victor Hugo\n\n Have an idea to change the world? Think you can solve the problems plaguing the world? Innovacion 2019, the biggest techfest in Kolkata, is here with an amazing opportunity for you to finally turn your ideas into reality.\n\n After a successful first edition, Hackstack - the Hackathon of Innovacion, is back again to provide a platform to all the tinkerers to influence the people with their world-class innovations. Share your ideas, build one-of-a-kind android or web apps, leave your mark and of course, stand a chance to win exciting prizes in the biggest techfest of Kolkata, Innovacion 2019. So pull up your socks and get ready to make the most of this opportunity.\n',
+      'There is only one thing stronger than all the armies of the world: and that is an idea whose time has come. - Victor Hugo\n\n Have an idea to change the world? Think you can solve the problems plaguing the world? Innovacion 2022, the biggest techfest in Kolkata, is here with an amazing opportunity for you to finally turn your ideas into reality.\n\n After a successful first edition, Hackstack - the Hackathon of Innovacion, is back again to provide a platform to all the tinkerers to influence the people with their world-class innovations. Share your ideas, build one-of-a-kind android or web apps, leave your mark and of course, stand a chance to win exciting prizes in the biggest techfest of Kolkata, Innovacion 2022. So pull up your socks and get ready to make the most of this opportunity.\n',
     created_at: null,
     updated_at: null,
   },
@@ -61,7 +61,7 @@ const events = [
     image_url: '11.png',
     rule_url: 'rules.html',
     writeup:
-      "The 21st century is a digital book with millennials spending too much time on the Internet. \nWhatever your perspective on the Internet be, one cannot deny that the Web has, is and will continue to reshape the 21st Century. After all, connecting with people around the World definitely makes man updated in all terms. Things aren't always #000000 & #FFFFFF, so show us your talent at the biggest techfest of Kolkata, Innovacion 2019. Show off your capabilities and beat others to be the champion. Show your worth to the rest of the world at Innovacion 2019, the biggest techfest in Kolkata.\n",
+      "The 21st century is a digital book with millennials spending too much time on the Internet. \nWhatever your perspective on the Internet be, one cannot deny that the Web has, is and will continue to reshape the 21st Century. After all, connecting with people around the World definitely makes man updated in all terms. Things aren't always #000000 & #FFFFFF, so show us your talent at the biggest techfest of Kolkata, Innovacion 2022. Show off your capabilities and beat others to be the champion. Show your worth to the rest of the world at Innovacion 2022, the biggest techfest in Kolkata.\n",
     created_at: null,
     updated_at: null,
   },
@@ -72,7 +72,7 @@ const events = [
     image_url: '2.png',
     rule_url: 'rules.html',
     writeup:
-      'IEM Innovacion 2019 is going to organise an international paper-presentation event ELECTROSLIDES - 2019 in collaboration with the Institution of Engineers, India (IEI) will start it&#39;s maiden run in the fold of Innovacion 2019. The said event will accept participants from different institutions and industries across the globe in the field of Electrical Engineering and it&#39;s periphery. A team consisting of a maximum up to 4 members will present their research paper with registration fee of Rs. 500 per paper, in front of eminent experts in relevant fields.',
+      'IEM Innovacion 2022 is going to organise an international paper-presentation event ELECTROSLIDES - 2022 in collaboration with the Institution of Engineers, India (IEI) will start it&#39;s maiden run in the fold of Innovacion 2022. The said event will accept participants from different institutions and industries across the globe in the field of Electrical Engineering and it&#39;s periphery. A team consisting of a maximum up to 4 members will present their research paper with registration fee of Rs. 500 per paper, in front of eminent experts in relevant fields.',
     created_at: null,
     updated_at: null,
   },
@@ -94,7 +94,7 @@ const events = [
     image_url: '12.png',
     rule_url: 'rules.html',
     writeup:
-      'Be ready for the best robotics exhibition of the town. The biggest techfest of Kolkata, IEM Innovacion 2019 and IEM Innovation & Entrepreneurship Development Cell (IEDC) brings to you the an exhibition of modern technology like no other.\n\nThis exhibition provides a platform to put forth your out-of-the-box ideas and gives a chance to demonstrate its prototype in front of leading state industrialists who may just fund your brilliant concepts. It provides you with an exposure towards latest technologies and helps the engineering fraternity in the better evolution of ideas. So get your brains storming and seatbelts fastened to showcase your ideas in the biggest techfest of Kolkata, Innovacion 2019. So buckle up! \nGET > SET > INNOVATE\n\n',
+      'Be ready for the best robotics exhibition of the town. The biggest techfest of Kolkata, IEM Innovacion 2022 and IEM Innovation & Entrepreneurship Development Cell (IEDC) brings to you the an exhibition of modern technology like no other.\n\nThis exhibition provides a platform to put forth your out-of-the-box ideas and gives a chance to demonstrate its prototype in front of leading state industrialists who may just fund your brilliant concepts. It provides you with an exposure towards latest technologies and helps the engineering fraternity in the better evolution of ideas. So get your brains storming and seatbelts fastened to showcase your ideas in the biggest techfest of Kolkata, Innovacion 2022. So buckle up! \nGET > SET > INNOVATE\n\n',
     created_at: null,
     updated_at: null,
   },
@@ -105,7 +105,7 @@ const events = [
     image_url: '13.png',
     rule_url: 'rules.html',
     writeup:
-      "No dream is enough until you have lived every moment of it. Everyday. They say that the best things are done by hand. Presenting Innovare, the model making competition of the biggest techfest of Kolkata, Innovacion 2019.\nIt's the hub of ideas and the congregation of implemented dream projects . A platform where ideas meet implementation. A competition where students from both schools and colleges are invited to showcase their models and compete with their respective peer groups.\nThis winter Innovate like never before at Innovacion 2019, the biggest techfest of Kolkata.",
+      "No dream is enough until you have lived every moment of it. Everyday. They say that the best things are done by hand. Presenting Innovare, the model making competition of the biggest techfest of Kolkata, Innovacion 2022.\nIt's the hub of ideas and the congregation of implemented dream projects . A platform where ideas meet implementation. A competition where students from both schools and colleges are invited to showcase their models and compete with their respective peer groups.\nThis winter Innovate like never before at Innovacion 2022, the biggest techfest of Kolkata.",
     created_at: null,
     updated_at: null,
   },
@@ -116,7 +116,7 @@ const events = [
     image_url: '5.png',
     rule_url: 'rules.html',
     writeup:
-      'The IEM Entrepreneurship Cell,has the vision to encourage students of the institute to consider self-employment as a viable career option and to guide and inspire them in the field of Innovations, Inventions and entrepreneurship. This year IEM E-Cell in association with Innovacion, the biggest techfest of Kolkata is here with Eureka, a B-Plan Event for budding entrepreneurs to showcase their unique talent in front of the best of the industry. \nSo get ready to harness your business schemes, present it to eminent dignitaries from various fields at Innovacion 2019, the biggest techfest of Kolkata and make it a viable career opportunity.\n\n',
+      'The IEM Entrepreneurship Cell,has the vision to encourage students of the institute to consider self-employment as a viable career option and to guide and inspire them in the field of Innovations, Inventions and entrepreneurship. This year IEM E-Cell in association with Innovacion, the biggest techfest of Kolkata is here with Eureka, a B-Plan Event for budding entrepreneurs to showcase their unique talent in front of the best of the industry. \nSo get ready to harness your business schemes, present it to eminent dignitaries from various fields at Innovacion 2022, the biggest techfest of Kolkata and make it a viable career opportunity.\n\n',
     created_at: null,
     updated_at: null,
   },
@@ -127,7 +127,7 @@ const events = [
     image_url: '14.png',
     rule_url: 'rules.html',
     writeup:
-      'Mathemagic, one of the paramount events of Innovacion 2019, the biggest techfest of Kolkata  is for those crazy about mathematics and the patterns hidden in the cold, yet beautiful landscape of mathematics. Would you believe me, if I told you that infinite sums can add up to finite numbers? Would you believe me, if I informed you that you can use a parabola to find prime numbers?\nShould you believe me, if I showed you that natural shapes are present in one single fractal? How about, the existence of a few irrational numbers which determine life as we know it?\n\t Let us blow your mind, this January, at Mathemagic, only at Innovacion 2019,the biggest techfest in Kolkata. Participate in groups of minimum 2 and maximum 3 people and stand a chance to win exciting prizes.\n',
+      'Mathemagic, one of the paramount events of Innovacion 2022, the biggest techfest of Kolkata  is for those crazy about mathematics and the patterns hidden in the cold, yet beautiful landscape of mathematics. Would you believe me, if I told you that infinite sums can add up to finite numbers? Would you believe me, if I informed you that you can use a parabola to find prime numbers?\nShould you believe me, if I showed you that natural shapes are present in one single fractal? How about, the existence of a few irrational numbers which determine life as we know it?\n\t Let us blow your mind, this January, at Mathemagic, only at Innovacion 2022,the biggest techfest in Kolkata. Participate in groups of minimum 2 and maximum 3 people and stand a chance to win exciting prizes.\n',
     created_at: null,
     updated_at: null,
   },
@@ -138,7 +138,7 @@ const events = [
     image_url: '15.png',
     rule_url: 'rules.html',
     writeup:
-      'If your camera lens has a story to share, this is the best place for it to air. With the stage all set and the countdown pacing down the order its about time Aperture, INNOVACION make its move. With the motive all clear, the 2019 edition of APERTURE, INNOVACION sure looks to surpass its previous records with its extensive outreach and format up-gradations. As INNOVACION again makes its way back into the town with it 2019 edition and sets the IEM and UEM campus  with activity, each and every individual from the institute have found their interests and involved themselves in the biggest techno-management event of the city in some way or the other.  It is always a feast for every anxious photographer to capture those short-lived moments and take a share out of the ever-flowing river of time.\n',
+      'If your camera lens has a story to share, this is the best place for it to air. With the stage all set and the countdown pacing down the order its about time Aperture, INNOVACION make its move. With the motive all clear, the 2022 edition of APERTURE, INNOVACION sure looks to surpass its previous records with its extensive outreach and format up-gradations. As INNOVACION again makes its way back into the town with it 2022 edition and sets the IEM and UEM campus  with activity, each and every individual from the institute have found their interests and involved themselves in the biggest techno-management event of the city in some way or the other.  It is always a feast for every anxious photographer to capture those short-lived moments and take a share out of the ever-flowing river of time.\n',
     created_at: null,
     updated_at: null,
   },
@@ -160,7 +160,7 @@ const events = [
     image_url: '17.png',
     rule_url: 'rules.html',
     writeup:
-      'Gear up folks for the biggest tech fest in Kolkata. Prepare for the ultimate battle royale of the best of\nthe best, right here at IEM Innovacion, 2019!\nWhile people brainstorm during the entire fest, the main workout session of the brain, the ultimate\nchallenge of the real neural interface, comes this year, bigger, better, and so much tougher.\nConfigure your brain to master the ultimate test, get those neurons firing and come down to IEM for\na challenge that is riveting and will keep you on the edge of the seat from the beginning till the end,\nand leave you asking for more. Come and experience quizzing like never before, at Innovacion 2019,\nThe Quiz Crusade , 2019.',
+      'Gear up folks for the biggest tech fest in Kolkata. Prepare for the ultimate battle royale of the best of\nthe best, right here at IEM Innovacion, 2022!\nWhile people brainstorm during the entire fest, the main workout session of the brain, the ultimate\nchallenge of the real neural interface, comes this year, bigger, better, and so much tougher.\nConfigure your brain to master the ultimate test, get those neurons firing and come down to IEM for\na challenge that is riveting and will keep you on the edge of the seat from the beginning till the end,\nand leave you asking for more. Come and experience quizzing like never before, at Innovacion 2022,\nThe Quiz Crusade , 2022.',
     created_at: null,
     updated_at: null,
   },
@@ -171,7 +171,7 @@ const events = [
     image_url: '18.png',
     rule_url: 'rules.html',
     writeup:
-      'One of the funny things about stock market is that every time one person buys, another sells, and both think they are astute -William Feather \n\nWant to learn the trade of stock markets without losing a single pice? Well, we have just the right thing for you!\n\nLearn how the stock market works, understand the basics of the stock market through experiential learning of economic and financial concepts and stand a chance to win exciting prizes, only at The Bull Master - The Stock Market Challenge of Innovacion 2019.\n',
+      'One of the funny things about stock market is that every time one person buys, another sells, and both think they are astute -William Feather \n\nWant to learn the trade of stock markets without losing a single pice? Well, we have just the right thing for you!\n\nLearn how the stock market works, understand the basics of the stock market through experiential learning of economic and financial concepts and stand a chance to win exciting prizes, only at The Bull Master - The Stock Market Challenge of Innovacion 2022.\n',
     created_at: null,
     updated_at: null,
   },
