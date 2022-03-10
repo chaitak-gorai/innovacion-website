@@ -63,3 +63,22 @@ function showProjectsData() {
   itemsDiv.innerHTML = content;
 }
 showProjectsData();
+
+function showSponsorsData() {
+  const itemsDiv3 = document.querySelector('#spon');
+  let content4 = sponsors.map((data) => {
+    return `
+    <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img
+                src="assets/sponsors/${data.imgsrc}"
+                class="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>`;
+  });
+  content4 = content4.join(' ');
+  itemsDiv3.innerHTML = content4;
+}
+showSponsorsData();
