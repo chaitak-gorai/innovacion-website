@@ -40,7 +40,9 @@
   padding: 10px;
   margin-bottom: 40px;
   border-radius: 10px;
-  box-shadow: 0.8px 0.8px 8px grey;
+  /* box-shadow: 0.8px 0.8px 8px; */
+  /* box-shadow: 3px 3px #222327, -3px -3px 3px #363636; */
+  box-shadow: 3px 3px 3px #222327, -2px -3px 3px #222327;
 }
 #s_card:hover {
   transform: scale(1.08);
@@ -151,7 +153,8 @@
 	 font-weight: initial;
 } */
 .dark {
-  background: #110f16;
+  /* background: #110f16; */
+  background: #353535;
 }
 .light {
   background: #f3f5f7;
@@ -511,7 +514,7 @@ a:hover {
   transition: 0.5s;
   background-size: 200% auto;
   color: white;
-  box-shadow: 0 0 20px #eee;
+  /* box-shadow: 0 0 20px #eee; */
   border-radius: 10px;
   display: block;
 }
@@ -526,3 +529,7 @@ a:hover {
   display: flex;
   bottom: 20;
 }
+
+/* .outer-shadow {
+  box-shadow: 3px 3px 3px #d0d0d0;
+} */
