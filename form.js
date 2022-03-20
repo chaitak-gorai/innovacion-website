@@ -19,6 +19,8 @@ async function signUp() {
   var email = document.getElementById('email');
   var password = document.getElementById('password');
   var name = document.getElementById('name');
+  var year = document.getElementById('year');
+  var institute = document.getElementById('institute');
 
   try {
     const result = await auth.createUserWithEmailAndPassword(
@@ -33,6 +35,8 @@ async function signUp() {
       email: email.value,
       password: password.value,
       name: name.value,
+      institute: institute.value,
+      year: year.value,
     });
 
     console.log('doc');
